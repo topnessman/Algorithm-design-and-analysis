@@ -1,3 +1,2 @@
 # Algorithm-design-and-analysis
-Solutions to programming questions
-Tamier's solutions to the programming questions to "Algorithm Design and Analysis"
+Tamier's solutions to the programming questions of "Algorithm Design and Analysis" coursera open course
